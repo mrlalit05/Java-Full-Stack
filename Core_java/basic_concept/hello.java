@@ -19,9 +19,3 @@ public class hello{
     int num2;
 }
 
-// make hello world program
-class world{
-    public static void main(String[] args) {
-        System.err.println("hello world");
-    }
-}
